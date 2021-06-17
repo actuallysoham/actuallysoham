@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **actuallysoham/actuallysoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,8 @@ I am Soham, a rising junior at Ashoka University. Here's my [personal website](h
 - 🔭 I’m currently working on Privacy Preserving Machine Learning (PPML)
 - 🌱 I’m currently learning Secure Multiparty Computation and ML Algorithms
 - 👯 I’m looking to collaborate on PPML and ML research
-- 📫 How to reach me: Just drop me an email at <hello@sohamde.in>
+- 📫 Just drop me an email at <hello@sohamde.in>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a human
 
 ## ⚡ Technologies
 
