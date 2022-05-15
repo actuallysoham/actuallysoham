@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
  
-I am Soham, a rising junior at Ashoka University. Here's my [personal website](https://sohamde.in)
+I am Soham, a senior at Ashoka University. Here's my [personal website](https://sohamde.in)
 
-- 🔭 I’m currently working on Privacy Preserving Machine Learning (PPML)
-- 🌱 I’m currently learning Secure Multiparty Computation and ML Algorithms
-- 👯 I’m looking to collaborate on PPML and ML research
+- 🔭 I’m working in the Computational Social Sciences and ICTD
+- 🌱 Previously I’ve studied and worked on Secure Multiparty Computation and ML Algorithms
+- 👯 I’m looking to collaborate on intersted questions centered around polarisation and social networks (mostly Twitter)
 - 📫 Just drop me an email at <hello@sohamde.in>
 - 😄 Pronouns: he/him
 
