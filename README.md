@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
  
-I am Soham, a senior at Ashoka University. Here's my [personal website](https://sohamde.in)
+I am Soham, a PhD student at the University of Washington. Here's my [personal website](https://sohamde.in)
 
-- 🔭 I’m working in the Computational Social Sciences and ICTD
-- 🌱 Previously I’ve studied and worked on Secure Multiparty Computation and ML Algorithms
-- 👯 I’m looking to collaborate on intersted questions centered around polarisation and social networks (mostly Twitter)
+- 🔭 My research spans the Computational Social Sciences and revolve around Social Networks, Misinformation and AI
 - 📫 Just drop me an email at <hello@sohamde.in>
 - 😄 Pronouns: he/him
 
